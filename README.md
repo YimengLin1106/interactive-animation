@@ -1,1 +1,1 @@
-# interactive-animation
+#Digital Cat Companion
